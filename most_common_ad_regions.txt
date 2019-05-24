@@ -1,0 +1,24 @@
+Canton:[1mZurich[0m;  Count:2528
+Canton:[1mBerne[0m;  Count:2393
+Canton:[1mAargau[0m;  Count:1707
+Canton:[1mSt Gallen[0m;  Count:1366
+Canton:[1mLucerne[0m;  Count:1066
+Canton:[1mBasel[0m;  Count:779
+Canton:[1mThurgau[0m;  Count:775
+Canton:[1mTicino[0m;  Count:581
+Canton:[1mSolothurn[0m;  Count:474
+Canton:[1mGrisons[0m;  Count:460
+Canton:[1mSchwyz[0m;  Count:307
+Canton:[1mNid- & Obwalden[0m;  Count:201
+Canton:[1mUri[0m;  Count:173
+Canton:[1mFribourg[0m;  Count:159
+Canton:[1mValais[0m;  Count:158
+Canton:[1mZug[0m;  Count:157
+Canton:[1mSchaffhausen[0m;  Count:136
+Canton:[1mAppenzell[0m;  Count:111
+Canton:[1mGlarus[0m;  Count:76
+Canton:[1mLiechtenstein[0m;  Count:69
+Canton:[1mVaud[0m;  Count:40
+Canton:[1mJura[0m;  Count:36
+Canton:[1mNeuchatel[0m;  Count:11
+Canton:[1mGeneva[0m;  Count:2
