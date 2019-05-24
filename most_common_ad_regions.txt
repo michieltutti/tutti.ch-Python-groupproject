@@ -1,0 +1,24 @@
+Canton:Zurich; Count:2528
+Canton:Berne; Count:2393
+Canton:Aargau; Count:1707
+Canton:St Gallen; Count:1366
+Canton:Lucerne; Count:1066
+Canton:Basel; Count:779
+Canton:Thurgau; Count:775
+Canton:Ticino; Count:581
+Canton:Solothurn; Count:474
+Canton:Grisons; Count:460
+Canton:Schwyz; Count:307
+Canton:Nid- & Obwalden; Count:201
+Canton:Uri; Count:173
+Canton:Fribourg; Count:159
+Canton:Valais; Count:158
+Canton:Zug; Count:157
+Canton:Schaffhausen; Count:136
+Canton:Appenzell; Count:111
+Canton:Glarus; Count:76
+Canton:Liechtenstein; Count:69
+Canton:Vaud; Count:40
+Canton:Jura; Count:36
+Canton:Neuchatel; Count:11
+Canton:Geneva; Count:2

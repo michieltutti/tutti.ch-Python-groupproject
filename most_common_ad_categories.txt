@@ -1,0 +1,23 @@
+Category:Vehicles; Count:8295
+Category:Real Estate; Count:2346
+Category:Garden & Craft; Count:846
+Category:Animals; Count:718
+Category:Household; Count:372
+Category:Clothing & Accessories; Count:216
+Category:Jobs & Courses; Count:214
+Category:Sports & Outdoor; Count:184
+Category:Office & Business; Count:115
+Category:Toys & Handicrafts; Count:83
+Category:Antiques & Arts; Count:71
+Category:Phone & Navigation; Count:69
+Category:Baby & Child; Count:69
+Category:Tv & Audio; Count:36
+Category:Computers & Accessories; Count:33
+Category:Music; Count:25
+Category:Collectibles; Count:25
+Category:Miscellaneous; Count:20
+Category:Photo & Video; Count:10
+Category:Services; Count:10
+Category:Books; Count:5
+Category:Tickets & Vouchers; Count:2
+Category:Movies; Count:1
